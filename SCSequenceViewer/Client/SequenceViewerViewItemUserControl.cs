@@ -79,7 +79,7 @@ namespace SequenceViewer.Client
 		}
 
 		/// <summary>
-		/// Is called when userControl is not displayed anymore. Aither becase of 
+		/// Is called when userControl is not displayed anymore. Either because of
 		/// user clicking on another View or Item has been removed from View.
 		/// </summary>
 		public override void Close()

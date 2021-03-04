@@ -79,7 +79,7 @@ namespace SensorMonitor.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Deactive Sensor.
+        ///   Looks up a localized string similar to Deactivate Sensor.
         /// </summary>
         internal static string DEACTIVATESENSOR {
             get {
